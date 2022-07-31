@@ -1,3 +1,4 @@
+//Source Code by MC Vector 36 (Mihai-Cristian Constantin)
 package com.mcvector36.tiptime
 
 import android.content.Context
